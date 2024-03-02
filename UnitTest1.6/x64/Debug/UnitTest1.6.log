@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.6.cpp
+C:\Users\TONYA\source\repos\Project1.6\Project1.6\Real.cpp(43,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\TONYA\source\repos\Project1.6\x64\Debug\UnitTest1.6.lib and object C:\Users\TONYA\source\repos\Project1.6\x64\Debug\UnitTest1.6.exp
+  UnitTest1.6.vcxproj -> C:\Users\TONYA\source\repos\Project1.6\x64\Debug\UnitTest1.6.dll
